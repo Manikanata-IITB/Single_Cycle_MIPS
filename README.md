@@ -1,4 +1,4 @@
-# Single_Cycle_MIPS
+# Single Cycle 16-bit MIPS Processor
 This project shows the implementation of 16 bit single cycle MIPS processor. The Instruction Set Architecture of this MIPS processor includes the following instructions.
 1) ADD
 2) SUB
